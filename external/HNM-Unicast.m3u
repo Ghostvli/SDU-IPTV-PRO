@@ -370,8 +370,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227067/index.m3u8
 #EXTINF:-1 tvg-name="宜阳" group-title="地方-河南移动",宜阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8
 #EXTINF:-1 tvg-name="平顶山新闻综合" group-title="地方-河南移动",平顶山新闻综合
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226401/index.m3u8
-#EXTINF:-1 tvg-name="平顶山新闻综合" group-title="地方-河南移动",平顶山新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 tvg-name="平顶山城市频道" group-title="地方-河南移动",平顶山城市频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226388/index.m3u8
@@ -398,11 +396,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 #EXTINF:-1 tvg-name="郏县" group-title="地方-河南移动",郏县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
 #EXTINF:-1 tvg-name="安阳新闻综合" group-title="地方-河南移动",安阳新闻综合
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
-#EXTINF:-1 tvg-name="安阳新闻综合" group-title="地方-河南移动",安阳新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226634/index.m3u8
-#EXTINF:-1 tvg-name="安阳文旅" group-title="地方-河南移动",安阳文旅
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="安阳文旅" group-title="地方-河南移动",安阳文旅
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
 #EXTINF:-1 tvg-name="林州" group-title="地方-河南移动",林州
@@ -413,8 +407,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227372/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226356/index.m3u8
 #EXTINF:-1 tvg-name="内黄" group-title="地方-河南移动",内黄
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
-#EXTINF:-1 tvg-name="鹤壁新闻综合" group-title="地方-河南移动",鹤壁新闻综合
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226384/index.m3u8
 #EXTINF:-1 tvg-name="鹤壁新闻综合" group-title="地方-河南移动",鹤壁新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226563/index.m3u8
 #EXTINF:-1 tvg-name="浚县" group-title="地方-河南移动",浚县
@@ -454,19 +446,13 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226382/index.m3u8
 #EXTINF:-1 tvg-name="焦作综合" group-title="地方-河南移动",焦作综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226604/index.m3u8
 #EXTINF:-1 tvg-name="焦作公共" group-title="地方-河南移动",焦作公共
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 tvg-name="焦作公共" group-title="地方-河南移动",焦作公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226616/index.m3u8
 #EXTINF:-1 tvg-name="沁阳" group-title="地方-河南移动",沁阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8
 #EXTINF:-1 tvg-name="孟州" group-title="地方-河南移动",孟州
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227035/index.m3u8
 #EXTINF:-1 tvg-name="濮阳综合" group-title="地方-河南移动",濮阳综合
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226378/index.m3u8
-#EXTINF:-1 tvg-name="濮阳综合" group-title="地方-河南移动",濮阳综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226643/index.m3u8
-#EXTINF:-1 tvg-name="濮阳公共" group-title="地方-河南移动",濮阳公共
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 tvg-name="濮阳公共" group-title="地方-河南移动",濮阳公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
 #EXTINF:-1 tvg-name="华龙" group-title="地方-河南移动",华龙
@@ -501,10 +487,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226671/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
 #EXTINF:-1 tvg-name="南阳科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/南阳.png" group-title="地方-河南移动",南阳科教
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226620/index.m3u8
-#EXTINF:-1 tvg-name="邓州" group-title="地方-河南移动",邓州
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226348/index.m3u8
-#EXTINF:-1 tvg-name="邓州" group-title="地方-河南移动",邓州
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8
 #EXTINF:-1 tvg-name="方城" group-title="地方-河南移动",方城
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227254/index.m3u8
 #EXTINF:-1 tvg-name="镇平" group-title="地方-河南移动",镇平
@@ -545,8 +527,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226518/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226674/index.m3u8
 #EXTINF:-1 tvg-name="光山" group-title="地方-河南移动",光山
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
-#EXTINF:-1 tvg-name="新县" group-title="地方-河南移动",新县
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227090/index.m3u8
 #EXTINF:-1 tvg-name="淮滨" group-title="地方-河南移动",淮滨
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8
 #EXTINF:-1 tvg-name="周口新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/周口.png" group-title="地方-河南移动",周口新闻综合
@@ -587,8 +567,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226364/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226598/index.m3u8
 #EXTINF:-1 tvg-name="上蔡" group-title="地方-河南移动",上蔡
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227065/index.m3u8
-#EXTINF:-1 tvg-name="正阳" group-title="地方-河南移动",正阳
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227420/index.m3u8
 #EXTINF:-1 tvg-name="泌阳" group-title="地方-河南移动",泌阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227347/index.m3u8
 #EXTINF:-1 tvg-name="遂平" group-title="地方-河南移动",遂平
