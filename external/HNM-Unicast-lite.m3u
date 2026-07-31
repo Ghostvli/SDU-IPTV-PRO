@@ -244,9 +244,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8
 #EXTINF:-1 tvg-name="健康河南" group-title="省级-河南移动",健康河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227110/index.m3u8
 #EXTINF:-1 tvg-name="大美河南" group-title="省级-河南移动",大美河南
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226589/index.m3u8
-#EXTINF:-1 tvg-name="大美河南" group-title="省级-河南移动",大美河南
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226399/index.m3u8
 #EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州.png" group-title="地方-河南移动",郑州新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8
 #EXTINF:-1 tvg-name="郑州商都频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州.png" group-title="地方-河南移动",郑州商都频道
