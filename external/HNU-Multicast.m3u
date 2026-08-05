@@ -63,11 +63,11 @@ rtp://225.1.4.100:1129
 rtp://225.1.4.99:1128
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/武术世界.png" group-title="未分组",河南武术世界
 rtp://225.1.4.101:1130
-#EXTINF:-1 tvg-name="许昌综合" group-title="未分组",许昌综合
+#EXTINF:-1 tvg-name="许昌综合" group-title="未分组" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/许昌综合.png",许昌综合
 rtp://225.1.4.108:1137
-#EXTINF:-1 tvg-name="许昌农业科教" group-title="未分组",许昌农业科教
+#EXTINF:-1 tvg-name="许昌农业科教" group-title="未分组" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/许昌农业科教.png",许昌农业科教
 rtp://225.1.4.110:1139
-#EXTINF:-1 tvg-name="禹州电视台" group-title="未分组",禹州电视台
+#EXTINF:-1 tvg-name="禹州电视台" group-title="未分组" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/禹州.png",禹州电视台
 rtp://225.1.4.238:1284
 #EXTINF:-1 tvg-name="国学频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/国学.png" group-title="未分组",国学频道
 rtp://225.1.4.196:1311

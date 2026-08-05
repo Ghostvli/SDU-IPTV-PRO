@@ -173,81 +173,81 @@ http://222.85.69.6/PLTV/88888888/224/3221226971/index.m3u8
 http://222.85.69.6/PLTV/88888888/224/3221226972/index.m3u8
 #EXTINF:-1 tvg-name="周口教育频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/周口.png" group-title="河南频道",周口教育频道
 http://222.85.69.6/PLTV/88888888/224/3221226969/index.m3u8
-#EXTINF:-1 tvg-name="周口新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/周口.png" group-title="河南频道",周口新闻综合
+#EXTINF:-1 tvg-name="周口新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/周口新闻综合.png" group-title="河南频道",周口新闻综合
 http://222.85.69.6/PLTV/88888888/224/3221226959/index.m3u8
-#EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州.png" group-title="河南频道",郑州新闻综合
+#EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州新闻综合.png" group-title="河南频道",郑州新闻综合
 http://222.85.69.6/PLTV/88888888/224/3221227035/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="郑州商都频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州.png" group-title="河南频道",郑州商都频道
+#EXTINF:-1 tvg-name="郑州商都频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州商都频道.png" group-title="河南频道",郑州商都频道
 http://222.85.69.6/PLTV/88888888/224/3221227028/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="郑州文体旅游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州.png" group-title="河南频道",郑州文体旅游
+#EXTINF:-1 tvg-name="郑州文体旅游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州文体旅游.png" group-title="河南频道",郑州文体旅游
 http://222.85.69.6/PLTV/88888888/224/3221227032/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="郑州豫剧频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州.png" group-title="河南频道",郑州豫剧频道
+#EXTINF:-1 tvg-name="郑州豫剧频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州豫剧频道.png" group-title="河南频道",郑州豫剧频道
 http://222.85.69.6/PLTV/88888888/224/3221227066/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="郑州妇女儿童" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州.png" group-title="河南频道",郑州妇女儿童
+#EXTINF:-1 tvg-name="郑州妇女儿童" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州妇女儿童.png" group-title="河南频道",郑州妇女儿童
 http://222.85.69.6/PLTV/88888888/224/3221227063/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="郑州都市生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州.png" group-title="河南频道",郑州都市生活
+#EXTINF:-1 tvg-name="郑州都市生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州都市生活.png" group-title="河南频道",郑州都市生活
 http://222.85.69.6/PLTV/88888888/224/3221227060/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="郑州教育台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州.png" group-title="河南频道",郑州教育台
+#EXTINF:-1 tvg-name="郑州教育台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郑州教育.png" group-title="河南频道",郑州教育台
 http://222.85.69.6/PLTV/88888888/224/3221227315/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="巩义" group-title="河南频道",巩义
+#EXTINF:-1 tvg-name="巩义" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/巩义.png",巩义
 http://222.85.69.6/PLTV/88888888/224/3221227190/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="荥阳" group-title="河南频道",荥阳
 http://222.85.69.6/PLTV/88888888/224/3221227064/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="新密" group-title="河南频道",新密
+#EXTINF:-1 tvg-name="新密" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/新密.png",新密
 http://222.85.69.6/PLTV/88888888/224/3221227058/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="新郑" group-title="河南频道",新郑
 http://222.85.69.6/PLTV/88888888/224/3221227096/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="登封" group-title="河南频道",登封
+#EXTINF:-1 tvg-name="登封" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/登封.png",登封
 http://222.85.69.6/PLTV/88888888/224/3221227061/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="开封新闻综合" group-title="河南频道",开封新闻综合
+#EXTINF:-1 tvg-name="开封新闻综合" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/开封新闻综合.png",开封新闻综合
 http://222.85.69.6/PLTV/88888888/224/3221226968/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="开封文化旅游" group-title="河南频道",开封文化旅游
+#EXTINF:-1 tvg-name="开封文化旅游" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/开封文化旅游.png",开封文化旅游
 http://222.85.69.6/PLTV/88888888/224/3221226981/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="祥符" group-title="河南频道",祥符
 http://222.85.69.6/PLTV/88888888/224/3221227235/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="通许" group-title="河南频道",通许
 http://222.85.69.6/PLTV/88888888/224/3221227237/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="兰考" group-title="河南频道",兰考
+#EXTINF:-1 tvg-name="兰考" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/兰考.png",兰考
 http://222.85.69.6/PLTV/88888888/224/3221227300/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="许昌综合" group-title="河南频道",许昌综合
+#EXTINF:-1 tvg-name="许昌综合" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/许昌综合.png",许昌综合
 http://222.85.69.6/PLTV/88888888/224/3221226982/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="许昌农业科教" group-title="河南频道",许昌农业科教
+#EXTINF:-1 tvg-name="许昌农业科教" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/许昌农业科教.png",许昌农业科教
 http://222.85.69.6/PLTV/88888888/224/3221226978/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="禹州" group-title="河南频道",禹州
+#EXTINF:-1 tvg-name="禹州" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/禹州.png",禹州
 http://222.85.69.6/PLTV/88888888/224/3221227073/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="襄城" group-title="河南频道",襄城
+#EXTINF:-1 tvg-name="襄城" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/襄城.png",襄城
 http://222.85.69.6/PLTV/88888888/224/3221227259/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="漯河新闻综合" group-title="河南频道",漯河新闻综合
+#EXTINF:-1 tvg-name="漯河新闻综合" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/漯河新闻综合.png",漯河新闻综合
 http://222.85.69.6/PLTV/88888888/224/3221226965/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="舞阳" group-title="河南频道",舞阳
 http://222.85.69.6/PLTV/88888888/224/3221227194/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="南阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/南阳.png" group-title="河南频道",南阳新闻综合
+#EXTINF:-1 tvg-name="南阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/南阳新闻综合.png" group-title="河南频道",南阳新闻综合
 http://222.85.69.6/PLTV/88888888/224/3221226963/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="南阳科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/南阳.png" group-title="河南频道",南阳科教
+#EXTINF:-1 tvg-name="南阳科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/南阳科教.png" group-title="河南频道",南阳科教
 http://222.85.69.6/PLTV/88888888/224/3221226970/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="南阳公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/南阳.png" group-title="河南频道",南阳公共
+#EXTINF:-1 tvg-name="南阳公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/南阳公共.png" group-title="河南频道",南阳公共
 http://222.85.69.6/PLTV/88888888/224/3221226966/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="邓州" group-title="河南频道",邓州
+#EXTINF:-1 tvg-name="邓州" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/邓州.png",邓州
 http://222.85.69.6/PLTV/88888888/224/3221226944/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="方城" group-title="河南频道",方城
+#EXTINF:-1 tvg-name="方城" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/方城.png",方城
 http://222.85.69.6/PLTV/88888888/224/3221227226/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="淅川" group-title="河南频道",淅川
 http://222.85.69.6/PLTV/88888888/224/3221227074/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="唐河" group-title="河南频道",唐河
 http://222.85.69.6/PLTV/88888888/224/3221227215/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="商丘新闻综合" group-title="河南频道",商丘新闻综合
+#EXTINF:-1 tvg-name="商丘新闻综合" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/商丘新闻综合.png",商丘新闻综合
 http://222.85.69.6/PLTV/88888888/224/3221226975/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="商丘公共频道" group-title="河南频道",商丘公共频道
+#EXTINF:-1 tvg-name="商丘公共频道" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/商丘公共.png",商丘公共频道
 http://222.85.69.6/PLTV/88888888/224/3221226962/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="商丘文体科教" group-title="河南频道",商丘文体科教
+#EXTINF:-1 tvg-name="商丘文体科教" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/商丘文体科教.png",商丘文体科教
 http://222.85.69.6/PLTV/88888888/224/3221226976/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="永城" group-title="河南频道",永城
 http://222.85.69.6/PLTV/88888888/224/3221227187/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="信阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/信阳.png" group-title="河南频道",信阳新闻综合
+#EXTINF:-1 tvg-name="信阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/信阳新闻综合.png" group-title="河南频道",信阳新闻综合
 http://222.85.69.6/PLTV/88888888/224/3221226967/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="信阳文旅频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/信阳.png" group-title="河南频道",信阳文旅频道
+#EXTINF:-1 tvg-name="信阳文旅频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/信阳文旅.png" group-title="河南频道",信阳文旅频道
 http://222.85.69.6/PLTV/88888888/224/3221226964/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="光山" group-title="河南频道",光山
+#EXTINF:-1 tvg-name="光山" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/光山.png",光山
 http://222.85.69.6/PLTV/88888888/224/3221227184/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="新县" group-title="河南频道",新县
 http://222.85.69.6/PLTV/88888888/224/3221227212/index.m3u8?icpid=88888888&servicetype=1
@@ -257,15 +257,15 @@ http://222.85.69.6/PLTV/88888888/224/3221226947/index.m3u8?icpid=88888888&servic
 http://222.85.69.6/PLTV/88888888/224/3221227232/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="沈丘" group-title="河南频道",沈丘
 http://222.85.69.6/PLTV/88888888/224/3221227288/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="郸城" group-title="河南频道",郸城
+#EXTINF:-1 tvg-name="郸城" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/郸城.png",郸城
 http://222.85.69.6/PLTV/88888888/224/3221227199/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="太康" group-title="河南频道",太康
+#EXTINF:-1 tvg-name="太康" group-title="河南频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/太康.png",太康
 http://222.85.69.6/PLTV/88888888/224/3221227242/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="驻马店新闻综合频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/驻马店.png" group-title="河南频道",驻马店新闻综合频道
+#EXTINF:-1 tvg-name="驻马店新闻综合频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/驻马店新闻综合.png" group-title="河南频道",驻马店新闻综合频道
 http://222.85.69.6/PLTV/88888888/224/3221226973/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="驻马店公共频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/驻马店.png" group-title="河南频道",驻马店公共频道
+#EXTINF:-1 tvg-name="驻马店公共频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/驻马店公共.png" group-title="河南频道",驻马店公共频道
 http://222.85.69.6/PLTV/88888888/224/3221226953/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 tvg-name="驻马店科教频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/驻马店.png" group-title="河南频道",驻马店科教频道
+#EXTINF:-1 tvg-name="驻马店科教频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南/驻马店科教.png" group-title="河南频道",驻马店科教频道
 http://222.85.69.6/PLTV/88888888/224/3221226956/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="上蔡" group-title="河南频道",上蔡
 http://222.85.69.6/PLTV/88888888/224/3221227240/index.m3u8?icpid=88888888&servicetype=1
